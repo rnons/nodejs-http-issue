@@ -1,6 +1,8 @@
-# A nodejs http or stream module issue
+# A nodejs http or stream module issue (solved)
 
 When sending some json string to a nodejs http server, the request body on the server side is somehow different from what I sent.
+
+[Solution](https://github.com/nodejs/help/issues/1945#issuecomment-498137449).
 
 ## How to reproduce
 
